@@ -1,0 +1,1 @@
+Con relacion a la version1, se modifico el random del enemigo para que aparezcan solo en 3 lugares especificos
